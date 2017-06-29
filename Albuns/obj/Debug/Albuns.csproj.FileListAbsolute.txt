@@ -1,0 +1,9 @@
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\bin\Debug\Albuns.exe.config
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\bin\Debug\Albuns.exe
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\bin\Debug\Albuns.pdb
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.csprojResolveAssemblyReference.cache
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.fmAlbuns.resources
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.Properties.Resources.resources
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.csproj.GenerateResource.Cache
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.exe
+c:\users\mateus.rodrigues01\documents\visual studio 2012\Projects\Albuns\Albuns\obj\Debug\Albuns.pdb
